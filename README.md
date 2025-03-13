@@ -6,7 +6,7 @@
 
 * These files contain auxiliary communication tools and the necessary functions to send messages to the GNSS module. 
 
-### Driver.h and Driver.c 
+### driver.h and driver.c 
 
 * These source and header files are created to handle various operations such as forming and sending messages using the UBX protocol. They make up the configuration file.
 
